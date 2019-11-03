@@ -21,3 +21,6 @@ git reset --hard <fileId>
 git status
 查看版本內差異
 git show fileId
+
+放棄已修改 但尚未add的但
+git restore fileName
