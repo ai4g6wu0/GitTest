@@ -1,2 +1,14 @@
 初始化資料夾
 Git init
+新增檔案
+git add <file>
+遞交給git管理
+git commit -m "Add new File"
+
+查看過往的檔案
+git log
+回復到先前檔
+git reset --hard <fileId>
+再次查看過往檔案
+git log
+已經消失了未來的檔案
