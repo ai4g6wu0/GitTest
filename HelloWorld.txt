@@ -12,3 +12,12 @@ git reset --hard <fileId>
 再次查看過往檔案
 git log
 已經消失了未來的檔案
+查看未來的檔案
+git reflog
+回復到未來的檔案
+git reset --hard <fileId>
+
+查看該資料夾內狀態
+git status
+查看版本內差異
+git show fileId
